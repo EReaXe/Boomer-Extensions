@@ -1,0 +1,10 @@
+{
+  "roadmapItems": [
+    {
+      "title": "v1.0.0 | First Release",
+      "description": "Bot'un temel komut sistemi ve event handler yapısı kurulumu.",
+      "status": "in-progress",
+      "statusText": "Geliştiriliyor"
+    }
+  ]
+}

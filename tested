@@ -1,0 +1,46 @@
+{
+    "roadmapItems": [
+        {
+            "title": "Temel Bot Altyapısı",
+            "description": "Bot'un temel komut sistemi ve event handler yapısı kurulumu. Prefix ve slash komut desteği.",
+            "status": "completed",
+            "statusText": "Tamamlandı"
+        },
+        {
+            "title": "Moderasyon Komutları",
+            "description": "Kick, ban, mute, timeout gibi temel moderasyon komutları ve yetki sistemi.",
+            "status": "in-progress",
+            "statusText": "Devam Ediyor"
+        },
+        {
+            "title": "Müzik Sistemi",
+            "description": "YouTube ve Spotify entegrasyonu ile müzik çalma özellikleri, playlist desteği.",
+            "status": "testing",
+            "statusText": "Test Aşamasında"
+        },
+        {
+            "title": "Ekonomi Sistemi",
+            "description": "Sunucu içi para birimi, market sistemi, kumar ve oyun mekanikleri.",
+            "status": "delayed",
+            "statusText": "Ertelendi"
+        },
+        {
+            "title": "Seviye Sistemi",
+            "description": "Kullanıcı aktivitelerine dayalı XP ve seviye sistemi, özel rol ödülleri.",
+            "status": "planned",
+            "statusText": "Planlandı"
+        },
+        {
+            "title": "Özel Tepki Rolleri",
+            "description": "Emoji tepkileriyle otomatik rol verme sistemi, çoklu menü desteği.",
+            "status": "planned",
+            "statusText": "Planlandı"
+        },
+        {
+            "title": "Gelişmiş Logging",
+            "description": "Sunucu olaylarının detaylı kayıt sistemi, özelleştirilebilir log kanalları.",
+            "status": "planned",
+            "statusText": "Planlandı"
+        }
+    ]
+} 
